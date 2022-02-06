@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @nishchay69
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html and css
-- 📫 How to reach me, dm me on instagram - @nishchay__2069
